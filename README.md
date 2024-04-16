@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Emmanuel Tetteh Totimeh</h1>
 <h3 align="center">A passionate backend web developer from Ghana</h3>
-<img src="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F" width="400" alt="coding" align="right">
+<!--<img src="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F" width="400" alt="coding" align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weber-droid&label=Profile%20views&color=0e75b6&style=flat" alt="weber-droid" /> </p>
 
