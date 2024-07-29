@@ -11,7 +11,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=weber-droid&show_icons=true&locale=en&layout=compact" alt="weber-droid" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=weber-droid&show_icons=true&locale=en" alt="weber-droid" /></p>
 
