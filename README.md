@@ -24,4 +24,6 @@
 - 👯 I’m looking to collaborate on full-stack web development, mobile app development and embedded system projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Manchester United fan
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=weber-droid&" alt="weber-droid" /></p>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weber-droid)
+
