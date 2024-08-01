@@ -25,5 +25,5 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Manchester United fan
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=weber-droid)
+
 
