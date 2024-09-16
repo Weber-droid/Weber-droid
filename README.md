@@ -13,6 +13,15 @@
 
 
 
+
+-----‐---------'
+
+
+
+
+
+
+
 - 🔭 I’m currently working on an embedded system project.
 - 🌱 I’m currently learning full-stack development with JavaScript
 - 👯 I’m looking to collaborate on full-stack web development, mobile app development and embedded system projects.
