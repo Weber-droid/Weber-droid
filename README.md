@@ -33,9 +33,6 @@
 </p>
 
 
-<a href="http://www.github.com/Weber-droid"><img src="https://github-readme-stats.vercel.app/api?username=Weber-droid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamEtornam's GitHub stats" /></a>
-
-<a href="http://www.github.com/Weber-droid"><img src="https://streak-stats.demolab.com?user=Weber-droid&theme=python-dark&hide_border=true" alt="GitHub Streak" /></a>
 
 
 
