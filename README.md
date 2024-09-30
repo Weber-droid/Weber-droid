@@ -29,8 +29,9 @@
 - ⚡ Fun fact: Manchester United fan
 
 <p>
-<a><img src="https://komarev.com/ghpvc/?username=Weber-sroid&label=Profile%20views&color=0e75b6&style=flat" alt="Weber-droid" /></a>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weber-droid&theme=ayu-mirage&hide_border=true"/>
+<a><img src="https://komarev.com/ghpvc/?username=Weber-sroid&label=Profile%20views&color=0e75b6&style=flat" alt="Weber-droid" /></a>
+  
 </p>
 <a href="http://www.github.com/Weber-droid"><img src="https://github-readme-stats.vercel.app/api?username=Weber-droid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamEtornam's GitHub stats" /></a>
 
