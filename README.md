@@ -18,7 +18,7 @@
 
 
 - 🔭 I’m currently working on a Spring Boot project.
-- 🌱 I’m currently learning full-stack development with JavaScript (MEAN Stack)
+- 🌱 I’m currently learning full-stack development
 - 👯 I’m looking to collaborate on full-stack web development, mobile app development and embedded system projects.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Manchester United fan
