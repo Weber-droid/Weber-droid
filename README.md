@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Tetteh Totimeh</h1>
-<h3 align="center">A passionate backend web developer and Mobile App Engineer from Ghana, Accra</h3>
+<h3 align="center">A passionate backend web developer and Mobile App Engineer from Ghana</h3>
 
 
 <h3 align="left">Connect with me:</h3>
