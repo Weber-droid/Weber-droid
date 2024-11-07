@@ -24,7 +24,7 @@
 - ⚡ Fun fact: Manchester United fan
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weber-droid&theme=ayu-mirage&hide_border=true"/>
+  
 <a><img src="https://komarev.com/ghpvc/?username=Weber-sroid&label=Profile%20views&color=0e75b6&style=flat" alt="Weber-droid" /></a>
   
 </p>
