@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer and DevOps enthusiast from Ghana</h3>
 
 - 🔭 I’m currently working on a Spring Boot project with DevOps integration.  
-- 🌱 I’m currently learning advanced cloud-native development and automation with DevOps tools.  
+- 🌱 I’m currently learning advanced cloud-native development and automation with DevOps tools  
 - 👯 I’m looking to collaborate on backend systems, cloud infrastructure projects, and automation pipelines.  
 - 🛠️ DevOps Skills: AWS, Terraform, Jenkins, Kubernetes, Docker, Python, Shell Scripting  
 - 😄 Pronouns: He/Him  
