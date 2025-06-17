@@ -8,8 +8,7 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Manchester United fan  
 
-<img src="https://github-readme-stats.vercel.app/api?username=Weber-droid&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=Weber-droid&theme=blueberry_duo"/>
-|---|---|
+
 
 <!--  
 <div style="display:flex; align-items: center; justify-content: space-between; gap: 16px;">
