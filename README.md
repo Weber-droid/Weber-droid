@@ -10,7 +10,7 @@
 
 
 
-<!-- <div style="display:flex; align-items: center; justify-content: space-between; gap: 16px;">
+<div style="display:flex; align-items: center; justify-content: space-between; gap: 16px;">
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weber-droid&theme=ayu-mirage&hide_border=true"/>
  <img src="https://github-readme-stats.vercel.app/api?username=Weber-droid&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true"/>
 </div>  
@@ -19,4 +19,4 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SageOfSixStacks/SageOfSixStacks/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SageOfSixStacks/SageOfSixStacks/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SageOfSixStacks/SageOfSixStacks/output/github-snake.svg" />
-</picture> -->
+</picture> 
