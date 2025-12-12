@@ -1,4 +1,4 @@
-<p> <img src="https://komarev.com/ghpvc/?username=seths10&label=Profile%20views&color=blue&style=for-the-badge" alt="seths10" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=Weber-droid&label=Profile%20views&color=blue&style=for-the-badge" alt="seths10" /> </p>
 
 > ## Hello, I'm emma.tt 🐱‍💻
 I build fullstack applications with focus on backend and mobile development
@@ -11,7 +11,7 @@ I build fullstack applications with focus on backend and mobile development
 👯 Would love to collaborate on any cool project    
 💬 Apart from tech, we can talk about football   
 🎈 I use tabs over spaces   
-📫 Reach me on [linkedin](https://www.linkedin.com/in/emmanueltotimeh/) 
+📫 Reach me on [linkedin](https://www.linkedin.com/in/emmanueltotimeh/)]
 🎉 Movies, Football and Coding is my love triangle  
 
 <br />
@@ -20,12 +20,11 @@ I build fullstack applications with focus on backend and mobile development
 
 <div style="display:flex; justify-content: space-between;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weber-droid&theme=ayu-mirage&hide_border=true" width="49.5%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Weber-droid&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
+  
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Weber-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Weber-droid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Weber-droid&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>  
 <br/>
